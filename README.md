@@ -29,6 +29,6 @@ This workflow will open Google Chrome in an Incognito session. If already open, 
 
 ## Examples
 
-[Workflow usage](images/example_usage.png?raw=true "Example Usage")
+![Workflow usage](images/example_usage.png?raw=true "Example Usage")
 
 ​	*Opens an incognito window and shows the results of the query*
