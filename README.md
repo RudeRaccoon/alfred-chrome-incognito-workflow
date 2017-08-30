@@ -1,4 +1,4 @@
-# Alfred Workflow: Google Chrome in Incognito Mode
+# Alfred Workflow: Chrome Incognito
 
 This workflow will open Google Chrome in an Incognito session. If already open, it'll open a new Incognito window.
 
