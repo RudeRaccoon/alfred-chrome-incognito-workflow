@@ -23,12 +23,11 @@ This workflow will open Google Chrome in an Incognito session. If already open, 
 ## Usage
 
 * `incognito` - Opens an incognito window
+
+
+![Usage incognito without query](images/usage_incognito.png?raw=true "Example Usage")
+
 * `incognito {query}` - Opens an incognito window searches for  _query_
 
 
-
-## Examples
-
-![Workflow usage](images/usage_icognito.png?raw=true "Example Usage")
-
-​	*Opens an incognito window and shows the results of the query*
+![Usage incognito without query](images/usage_incognito_query.png?raw=true "Example Usage")
