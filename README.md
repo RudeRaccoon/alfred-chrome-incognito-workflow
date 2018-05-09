@@ -22,12 +22,12 @@ Open Google Chrome in Incognito mode. If already open, it'll open a new Incognit
 
 ## Usage
 
-* `incognito` - Opens an incognito window
+* `incognito` - Opens an incognito window with [Google](https://www.google.com/).
 
 
 ![Usage incognito without query](images/usage_incognito.png?raw=true "Example Usage")
 
-* `incognito {query}` - Opens an incognito window searches for  _query_
+* `incognito {query}` - Opens an incognito window and searches for  _query_
 
 
 ![Usage incognito without query](images/usage_incognito_query.png?raw=true "Example Usage")
