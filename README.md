@@ -15,10 +15,15 @@ Open Google Chrome in Incognito mode. If already open, it'll open a new Incognit
 
 ## Installation
 
-1. Download the **.alfredworkflow** file
+### Github
+
+1. Download the [**Chrome Incognito.alfredworkflow**](rodrigobdz/alfred-chrome-incognito-workflow/blob/master/Chrome%20Incognito.alfredworkflow) file.
 2. Double click to install
 
+### Packal
 
+1. Download the **.alfredworkflow** file from [Packal](http://www.packal.org/workflow/chrome-incognito).
+2. Double click to install
 
 ## Usage
 
@@ -27,10 +32,17 @@ Open Google Chrome in Incognito mode. If already open, it'll open a new Incognit
 
 ![Usage incognito without query](images/usage_incognito.png?raw=true "Example Usage")
 
-* `incognito {query}` - Opens an incognito window and searches for  _query_
+* `incognito {query}` - Opens an incognito window and searches for  _query_.
 
 
 ![Usage incognito without query](images/usage_incognito_query.png?raw=true "Example Usage")
+
+
+## Links
+
+* [Packal](http://www.packal.org/workflow/chrome-incognito)
+* [Alfred Forum](https://www.alfredforum.com/topic/11484-workflow-chrome-incognito-open-google-chrome-in-incognito-mode/)
+
 
 ## Credits
 
