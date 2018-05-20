@@ -17,7 +17,7 @@ Open Google Chrome in Incognito mode. If already open, it'll open a new Incognit
 
 ### Github
 
-1. Download the [**Chrome Incognito.alfredworkflow**](rodrigobdz/alfred-chrome-incognito-workflow/blob/master/Chrome%20Incognito.alfredworkflow) file.
+1. Download the [**Chrome Incognito.alfredworkflow**](Chrome%20Incognito.alfredworkflow) file.
 2. Double click to install
 
 ### Packal
