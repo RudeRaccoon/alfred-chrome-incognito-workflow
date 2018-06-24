@@ -26,7 +26,7 @@ Open Google Chrome in Incognito mode, optionally with query as parameter.
 
 ![Usage incognito without arguments](images/usage_incognito.png?raw=true "Example Usage")
 
-- `incognito alfred` - Open an incognito window and searches for _alfred_.
+- `incognito alfred` - Open an incognito window and search for _alfred_.
 
 ![Usage incognito with arguments](images/usage_incognito_query.png?raw=true "Example Usage")
 
