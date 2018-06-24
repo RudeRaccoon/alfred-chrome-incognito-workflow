@@ -1,6 +1,6 @@
 # Alfred Workflow: Chrome Incognito
 
-Open Google Chrome in Incognito mode. If already open, it'll open a new Incognito window.
+Open Google Chrome in Incognito mode, optionally with query as parameter.
 
 ## Requirements
 
@@ -22,13 +22,13 @@ Open Google Chrome in Incognito mode. If already open, it'll open a new Incognit
 
 ## Usage
 
-- `incognito` - Opens an incognito window with [Google](https://www.google.com/).
+- `incognito` - Open an incognito window with [Google](https://www.google.com/).
 
-![Usage incognito without query](images/usage_incognito.png?raw=true "Example Usage")
+![Usage incognito without arguments](images/usage_incognito.png?raw=true "Example Usage")
 
-- `incognito {query}` - Opens an incognito window and searches for _query_.
+- `incognito alfred` - Open an incognito window and searches for _alfred_.
 
-![Usage incognito without query](images/usage_incognito_query.png?raw=true "Example Usage")
+![Usage incognito with arguments](images/usage_incognito_query.png?raw=true "Example Usage")
 
 ## Links
 
@@ -38,8 +38,8 @@ Open Google Chrome in Incognito mode. If already open, it'll open a new Incognit
 ## Related Projects
 
 - [Open Incognito Window](http://www.packal.org/workflow/incognitoclone): Open an Incognito Window in Chrome.
-- [Alfred Chrome](https://github.com/ShogunPanda/alfred-chrome): Opens a URL in Google Chrome, optionally in incognito and with specific profile.
-- [IncognitoClone](http://www.packal.org/workflow/incognitoclone): Opens Chrome’s frontmost tab in an incognito window.
+- [Alfred Chrome](https://github.com/ShogunPanda/alfred-chrome): Open a URL in Google Chrome, optionally in incognito and with specific profile.
+- [IncognitoClone](http://www.packal.org/workflow/incognitoclone): Open Chrome’s frontmost tab in an incognito window.
 - [alfred-firechrome](https://github.com/LeEnno/alfred-firechrome): Open Chrome's current tab in Firefox or vice versa.
 
 Project descriptions taken from [Packal](http://www.packal.org/workflow-search?query=chrome+incognito).
