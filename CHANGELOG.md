@@ -32,6 +32,6 @@ Initial release.
 - `incognito` - Open an incognito window with [Google](https://www.google.com/).
 - `incognito alfred` - Open an incognito window and searches for _alfred_.
 
-[unreleased]: https://github.com/rodrigobdz/alfred-chrome-incognito-workflow/compare/1.0.1...HEAD
-[1.0.1]: https://github.com/rodrigobdz/alfred-chrome-incognito-workflow/compare/1.0.0...1.0.1
+[unreleased]: https://github.com/rodrigobdz/alfred-chrome-incognito-workflow/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/rodrigobdz/alfred-chrome-incognito-workflow/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/rodrigobdz/alfred-chrome-incognito-workflow/compare/f6515c22201adcfd90ea54fefa093ae9425efa9b...rodrigobdz:master
