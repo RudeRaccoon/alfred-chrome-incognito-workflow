@@ -7,7 +7,6 @@ Open Google Chrome in Incognito mode. If already open, it'll open a new Incognit
 - [Alfred](http://www.alfredapp.com/)
 - Alfred Powerpack
 - Google Chrome
-- Assistive access enabled in System Preferences > Universal Access
 
 ## Installation
 
